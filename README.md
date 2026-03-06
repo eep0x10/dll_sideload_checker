@@ -234,6 +234,8 @@ Remove-Item "C:\app\_orig_VERSION.dll"
 
 ---
 
+Creditos a idealização desse projeto: https://www.linkedin.com/in/bruno-roberto-de-jesus-21b86512b/ 
+
 ## Licenca
 
 MIT License. Veja [LICENSE](LICENSE) para detalhes.
